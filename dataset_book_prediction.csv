@@ -1,0 +1,230 @@
+Cinsiyet,yas,Egitim_durumu,Meslek,kitap_tercihi,kitap_okuma_sikliği,fiyat_araligi,Amac,Dil,tercih_edilen_yazar,en_sevdigi_kitap
+Kadın,35, Yüksek Lisans, Doktor, Şiir,5, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,42, Lisans,Diğer, Tarih,7, Yüksek, Eğlence, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,30, Lisans, Mühendis, Roman,8, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,55, Doktora,Diğer, Diğer,4, Yüksek, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,45, Lisans,Diğer, Roman,6, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,33, Yüksek Lisans,Diğer, Şiir,3, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Ben Robot
+Erkek,29, Lisans,Diğer, Roman,9, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Diğer
+Kadın,37, Lisans,Diğer, Tarih,6, Yüksek, Eğlence, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,31, Yüksek Lisans,Diğer, Roman,7, Yüksek, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,40, Lisans,Diğer, Roman,5, Orta düzey, Bilgi edinme, Türkçe, J.K. Rowling, Harry Potter
+Erkek,26, Lisans,Diğer, Şiir,4, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,50, Doktora,Diğer, Roman,6, Orta düzey, Eğlence, Türkçe, Isaac Asimov, Ben Robot
+Erkek,38, Yüksek Lisans,Diğer, Roman,8, Yüksek, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,29, Lisans, Mühendis, Tarih,7, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,35, Yüksek Lisans, Doktor, Şiir,5, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,42, Lisans,Diğer, Roman,6, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,30, Lisans, Mühendis, Roman,8, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,55, Doktora,Diğer, Diğer,4, Yüksek, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,45, Lisans,Diğer, Tarih,6, Orta düzey, Eğlence, İngilizce, Shakespeare, Alamut Kalesi
+Erkek,33, Yüksek Lisans,Diğer, Roman,3, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Ben Robot
+Erkek,29, Lisans,Diğer, Şiir,9, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Diğer
+Kadın,37, Lisans,Diğer, Roman,6, Yüksek, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,31, Yüksek Lisans,Diğer, Roman,7, Yüksek, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,40, Lisans,Diğer, Roman,5, Orta düzey, Bilgi edinme, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,26, Lisans,Diğer, Diğer,4, Ekonomik, Kişisel gelişim, İngilizce, Isaac Asimov, Ben Robot
+Kadın,50, Doktora,Diğer, Roman,6, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,38, Yüksek Lisans,Diğer, Şiir,8, Yüksek, Kişisel gelişim, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,29, Lisans, Mühendis, Roman,7, Orta düzey, Bilgi edinme, Türkçe, J.K. Rowling, Harry Potter
+Erkek,35, Yüksek Lisans, Doktor, Tarih,5, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,42, Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,30, Lisans, Mühendis, Tarih,8, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,55, Doktora,Diğer, Roman,4, Yüksek, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Kadın,45, Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,33, Yüksek Lisans,Diğer, Roman,3, Ekonomik, Kişisel gelişim, Türkçe, J.K. Rowling, Harry Potter
+Erkek,29, Lisans,Diğer, Şiir,9, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Diğer
+Kadın,37, Lisans,Diğer, Roman,6, Yüksek, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,31, Yüksek Lisans,Diğer, Tarih,7, Yüksek, Kişisel gelişim, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,40, Lisans,Diğer, Şiir,5, Orta düzey, Bilgi edinme, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,26, Lisans,Diğer, Roman,4, Ekonomik, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Kadın,34, Yüksek Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, İngilizce, Isaac Asimov, Ben Robot
+Erkek,48, Lisans,Diğer, Roman,8, Yüksek, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,29, Lisans, Mühendis, Roman,7, Orta düzey, Bilgi edinme, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,35, Yüksek Lisans, Doktor, Şiir,5, Ekonomik, Kişisel gelişim, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,42, Lisans,Diğer, Tarih,6, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,30, Lisans, Mühendis, Roman,8, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,55, Doktora,Diğer, Diğer,4, Yüksek, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,45, Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,33, Yüksek Lisans,Diğer, Roman,3, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,29, Lisans, Mühendis, Roman,7, Orta düzey, Bilgi edinme, Türkçe, J.K. Rowling, Harry Potter
+Erkek,35, Yüksek Lisans, Doktor, Tarih,5, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,42, Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,30, Lisans, Mühendis, Roman,8, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,55, Doktora,Diğer, Roman,4, Yüksek, Kişisel gelişim, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Kadın,45, Lisans,Diğer, Tarih,6, Orta düzey, Eğlence, İngilizce, Shakespeare, Alamut Kalesi
+Erkek,33, Yüksek Lisans,Diğer, Şiir,3, Ekonomik, Kişisel gelişim, Türkçe, J.K. Rowling, Harry Potter
+Kadın,29, Lisans, Mühendis, Tarih,7, Orta düzey, Bilgi edinme, Türkçe, Isaac Asimov, Ben Robot
+Erkek,35, Yüksek Lisans, Doktor, Roman,5, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,42, Lisans,Diğer, Şiir,6, Orta düzey, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,30, Lisans, Mühendis, Roman,8, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,28, Lisans, Mühendis, Şiir,6, Ekonomik, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Erkek,39, Yüksek Lisans, Doktor, Roman,4, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,32, Lisans,Diğer, Tarih,7, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Erkek,27, Lisans, Mühendis, Roman,5, Ekonomik, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Kadın,45, Doktora,Diğer, Şiir,3, Yüksek, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,31, Yüksek Lisans,Diğer, Tarih,8, Orta düzey, Bilgi edinme, İngilizce, J.K. Rowling, Harry Potter
+Kadın,36, Lisans, Mühendis, Roman,6, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,29, Yüksek Lisans, Doktor, Şiir,7, Orta düzey, Eğlence, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,33, Lisans,Diğer, Tarih,5, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,26, Lisans, Mühendis, Roman,6, Orta düzey, Bilgi edinme, Türkçe, Isaac Asimov, Ben Robot
+Kadın,48, Doktora,Diğer, Şiir,4, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,31, Yüksek Lisans,Diğer, Roman,8, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,37, Lisans, Mühendis, Tarih,7, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Erkek,28, Yüksek Lisans, Doktor, Roman,5, Ekonomik, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Kadın,44, Doktora,Diğer, Şiir,3, Yüksek, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,29, Lisans, Mühendis, Tarih,6, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,35, Lisans,Diğer, Roman,5, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,30, Yüksek Lisans, Doktor, Şiir,7, Orta düzey, Eğlence, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,34, Lisans,Diğer, Tarih,6, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,27, Lisans, Mühendis, Roman,4, Orta düzey, Bilgi edinme, Türkçe, Isaac Asimov, Ben Robot
+Kadın,46, Yüksek Lisans,Diğer, Roman,3, Yüksek, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,33, Lisans, Mühendis, Şiir,6, Ekonomik, Kişisel gelişim, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,29, Lisans,Diğer, Tarih,5, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,25, Yüksek Lisans, Doktor, Roman,7, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,42, Doktora,Diğer, Şiir,4, Yüksek, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,30, Lisans, Mühendis, Tarih,6, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,36, Yüksek Lisans,Diğer, Roman,5, Ekonomik, Kişisel gelişim, İngilizce, Isaac Asimov, Ben Robot
+Erkek,28, Lisans, Doktor, Şiir,7, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Kadın,33, Lisans, Mühendis, Tarih,6, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,26, Yüksek Lisans,Diğer, Roman,4, Orta düzey, Bilgi edinme, Türkçe, Isaac Asimov, Ben Robot
+Kadın,49, Doktora,Diğer, Şiir,3, Yüksek, Eğlence, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,31, Lisans, Mühendis, Tarih,8, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,37, Yüksek Lisans,Diğer, Roman,6, Orta düzey, Bilgi edinme, Türkçe, Isaac Asimov, Ben Robot
+Erkek,29, Lisans, Doktor, Şiir,7, Ekonomik, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Kadın,32, Lisans, Mühendis, Tarih,5, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,27, Yüksek Lisans,Diğer, Roman,4, Yüksek, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,45, Doktora,Diğer, Şiir,3, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,32, Lisans, Mühendis, Tarih,6, Orta düzey, Eğlence, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,38, Yüksek Lisans,Diğer, Roman,5, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,30, Lisans, Doktor, Şiir,7, Orta düzey, Bilgi edinme, Türkçe, J.K. Rowling, Harry Potter
+Kadın,29, Lisans, Mühendis, Tarih,4, Ekonomik, Eğlence, İngilizce, Isaac Asimov, Ben Robot
+Erkek,26, Yüksek Lisans,Diğer, Roman,6, Orta düzey, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,35, Doktora,Diğer, Şiir,3, Yüksek, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,31, Lisans, Mühendis, Tarih,5, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,27, Yüksek Lisans,Diğer, Roman,7, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,33, Lisans, Doktor, Şiir,4, Ekonomik, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,30, Lisans, Mühendis, Tarih,6, Yüksek, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,28, Yüksek Lisans,Diğer, Roman,5, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,36, Doktora,Diğer, Şiir,7, Ekonomik, Bilgi edinme, İngilizce, J.K. Rowling, Harry Potter
+Erkek,32, Lisans, Mühendis, Tarih,4, Yüksek, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Kadın,28, Yüksek Lisans,Diğer, Roman,6, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,34, Lisans, Doktor, Şiir,5, Orta düzey, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,31, Lisans, Mühendis, Tarih,7, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,29, Yüksek Lisans,Diğer, Roman,4, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Kadın,37, Doktora,Diğer, Şiir,6, Yüksek, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,33, Lisans, Mühendis, Tarih,5, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,29, Yüksek Lisans,Diğer, Roman,7, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,35, Lisans, Doktor, Şiir,4, Ekonomik, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,32, Lisans, Mühendis, Tarih,6, Yüksek, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Erkek,30, Yüksek Lisans,Diğer, Roman,5, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Kadın,36, Doktora,Diğer, Şiir,4, Ekonomik, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,32, Lisans, Mühendis, Tarih,7, Yüksek, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,28, Yüksek Lisans,Diğer, Roman,6, Ekonomik, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,34, Lisans, Doktor, Şiir,5, Orta düzey, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Kadın,31, Lisans, Mühendis, Tarih,7, Ekonomik, Kişisel gelişim, Türkçe, Isaac Asimov, Ben Robot
+Erkek,29, Yüksek Lisans,Diğer, Roman,4, Orta düzey, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,37, Doktora,Diğer, Şiir,6, Yüksek, Bilgi edinme, İngilizce, Özdemir Asaf, Çiçek Senfonisi
+Erkek,33, Lisans, Mühendis, Tarih,5, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,29, Yüksek Lisans,Diğer, Roman,7, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,35, Lisans, Doktor, Şiir,4, Ekonomik, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,31, Yüksek Lisans,Diğer, Roman,6, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,36, Lisans, Mühendis, Tarih,5, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,28, Yüksek Lisans,Diğer, Şiir,4, Ekonomik, Bilgi edinme, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,32, Doktora,Diğer, Roman,7, Yüksek, Eğlence, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,29, Lisans, Mühendis, Diğer,3, Ekonomik, Kişisel gelişim, Türkçe, Stephen Hawking, Diğer
+Erkek,33, Yüksek Lisans,Diğer, Tarih,6, Orta düzey, Bilgi edinme, İngilizce, Isaac Asimov, Ben Robot
+Kadın,35, Lisans, Mühendis, Şiir,4, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,31, Yüksek Lisans, Doktor, Roman,5, Yüksek, Kişisel gelişim, Türkçe, J.K. Rowling, Harry Potter
+Kadın,27, Lisans,Diğer, Diğer,6, Orta düzey, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,34, Yüksek Lisans, Mühendis, Tarih,7, Ekonomik, Eğlence, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,30, Lisans, Mühendis, Roman,4, Ekonomik, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,29, Lisans,Diğer, Şiir,3, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,32, Yüksek Lisans, Doktor, Tarih,6, Orta düzey, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,27, Lisans,Diğer, Diğer,5, Orta düzey, Eğlence, Türkçe, Stephen Hawking, Diğer
+Kadın,33, Lisans, Mühendis, Şiir,4, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Erkek,31, Yüksek Lisans,Diğer, Roman,7, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,28, Yüksek Lisans, Mühendis, Diğer,3, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,36, Doktora,Diğer, Tarih,5, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Alamut Kalesi
+Kadın,29, Lisans,Diğer, Şiir,6, Yüksek, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Erkek,33, Yüksek Lisans, Mühendis, Roman,4, Ekonomik, Kişisel gelişim, Türkçe, J.K. Rowling, Harry Potter
+Kadın,28, Lisans, Mühendis, Tarih,2, Ekonomik, Bilgi edinme, İngilizce, Yuval Noah Harari, Diğer
+Erkek,30, Yüksek Lisans, Doktor, Roman,5, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Kadın,32, Lisans,Diğer, Diğer,3, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,27, Lisans,Diğer, Şiir,4, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Kadın,33, Yüksek Lisans, Mühendis, Roman,6, Orta düzey, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Erkek,31, Yüksek Lisans,Diğer, Diğer,3, Ekonomik, Bilgi edinme, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,28, Yüksek Lisans, Mühendis, Şiir,5, Yüksek, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Erkek,36, Doktora,Diğer, Roman,4, Ekonomik, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Kadın,29, Lisans,Diğer, Tarih,6, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Erkek,33, Yüksek Lisans, Mühendis, Şiir,3, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Kadın,31, Yüksek Lisans, Doktor, Roman,4, Orta düzey, Kişisel gelişim, İngilizce, Stephen Hawking, Diğer
+Erkek,29, Lisans, Mühendis, Tarih,2, Ekonomik, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Kadın,35, Lisans,Diğer, Diğer,3, Ekonomik, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,27, Yüksek Lisans,Diğer, Roman,5, Orta düzey, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Kadın,32, Yüksek Lisans, Mühendis, Şiir,4, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Erkek,30, Yüksek Lisans,Diğer, Diğer,3, Ekonomik, Bilgi edinme, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,28, Yüksek Lisans, Mühendis, Şiir,5, Yüksek, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Erkek,36, Doktora,Diğer, Roman,4, Ekonomik, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,29, Lisans,Diğer, Tarih,6, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Erkek,33, Yüksek Lisans, Mühendis, Şiir,3, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Kadın,30, Yüksek Lisans, Doktor, Roman,4, Orta düzey, Kişisel gelişim, İngilizce, Stephen Hawking, Diğer
+Erkek,28, Lisans, Mühendis, Tarih,2, Ekonomik, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Kadın,34, Lisans,Diğer, Diğer,3, Ekonomik, Eğlence, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,26, Yüksek Lisans,Diğer, Roman,5, Orta düzey, Kişisel gelişim, İngilizce, J.K. Rowling, Harry Potter
+Kadın,31, Yüksek Lisans, Mühendis, Şiir,4, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Erkek,29, Yüksek Lisans,Diğer, Diğer,3, Ekonomik, Bilgi edinme, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,27, Yüksek Lisans, Mühendis, Şiir,5, Yüksek, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Erkek,35, Doktora,Diğer, Roman,4, Ekonomik, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,28, Lisans,Diğer, Tarih,6, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Erkek,32, Yüksek Lisans, Mühendis, Şiir,3, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Çiçek Senfonisi
+Kadın,33, Lisans, Doktor, Roman,2, Ekonomik, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,29, Yüksek Lisans, Mühendis, Diğer,4, Orta düzey, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,27, Lisans,Diğer, Roman,3, Ekonomik, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,35, Doktora,Diğer, Şiir,5, Orta düzey, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,30, Yüksek Lisans,Diğer, Tarih,2, Ekonomik, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,28, Lisans, Mühendis, Roman,4, Ekonomik, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,32, Yüksek Lisans,Diğer, Diğer,3, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,26, Yüksek Lisans, Mühendis, Şiir,2, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Kadın,31, Lisans, Mühendis, Roman,5, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,27, Yüksek Lisans,Diğer, Tarih,4, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Kadın,29, Lisans, Doktor, Roman,3, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,34, Lisans, Mühendis, Şiir,4, Orta düzey, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,26, Yüksek Lisans,Diğer, Roman,2, Ekonomik, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,33, Lisans,Diğer, Tarih,3, Orta düzey, Bilgi edinme, İngilizce, Shakespeare, Diğer
+Kadın,28, Lisans, Mühendis, Diğer,4, Orta düzey, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Erkek,31, Yüksek Lisans,Diğer, Roman,3, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,27, Lisans,Diğer, Şiir,2, Ekonomik, Eğlence, Türkçe, Özdemir Asaf, Diğer
+Erkek,30, Yüksek Lisans, Mühendis, Roman,4, Ekonomik, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,35, Lisans,Diğer, Tarih,3, Ekonomik, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,29, Yüksek Lisans, Mühendis, Diğer,2, Ekonomik, Kişisel gelişim, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,31, Yüksek Lisans,Diğer, Roman,5, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,28, Lisans, Mühendis, Şiir,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,33, Lisans, Öğretmen, Tarih,3, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Diğer
+Erkek,26, Lisans, Mühendis, Diğer,4, Yüksek, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,29, Lisans,Diğer, Roman,2, Ekonomik, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,34, Yüksek Lisans,Diğer, Şiir,3, Orta düzey, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,27, Lisans, Mühendis, Roman,4, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,30, Lisans, Öğretmen, Tarih,2, Ekonomik, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Kadın,32, Yüksek Lisans, Diğer, Diğer,3, Orta düzey, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,29, Lisans, Mühendis, Roman,5, Yüksek, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Kadın,30, Yüksek Lisans, Diğer, Tarih,5, Yüksek, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,33, Lisans, Mühendis, Şiir,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,26, Lisans, Öğretmen, Roman,3, Orta düzey, Eğlence, Türkçe, J.K. Rowling, Harry Potter
+Erkek,31, Lisans, Mühendis, Tarih,4, Yüksek, Bilgi edinme, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,28, Lisans, Diğer, Diğer,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Erkek,35, Yüksek Lisans, Diğer, Roman,3, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,29, Lisans, Öğretmen, Şiir,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Erkek,32, Lisans, Mühendis, Roman,4, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,27, Yüksek Lisans, Diğer, Tarih,3, Orta düzey, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,30, Lisans, Mühendis, Diğer,2, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Kadın,27, Lisans, Diğer, Şiir,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Erkek,30, Yüksek Lisans, Doktor, Roman,3, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,32, Lisans, Öğretmen, Tarih,4, Yüksek, Bilgi edinme, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,35, Lisans, Mühendis, Roman,2, Orta düzey, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Kadın,28, Yüksek Lisans, Diğer, Diğer,3, Ekonomik, Kişisel gelişim, İngilizce, Yuval Noah Harari, Sapiens
+Erkek,33, Lisans, Diğer, Şiir,2, Ekonomik, Kişisel gelişim, Türkçe, Özdemir Asaf, Diğer
+Kadın,26, Lisans, Diğer, Roman,4, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
+Erkek,31, Lisans, Mühendis, Diğer,3, Orta düzey, Bilgi edinme, Türkçe, Yuval Noah Harari, Sapiens
+Kadın,34, Lisans, Öğretmen, Tarih,2, Ekonomik, Kişisel gelişim, Türkçe, Shakespeare, Alamut Kalesi
+Erkek,29, Yüksek Lisans, Mühendis, Roman,4, Yüksek, Eğlence, İngilizce, J.K. Rowling, Harry Potter
