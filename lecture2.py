@@ -1,3 +1,4 @@
+#%%
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -7,9 +8,9 @@ from sklearn.metrics import confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, f1_score
+from sklearn.svm import SVC
 import seaborn as sns
 
-#%%
 excel_file = "dataset_book_prediction.xlsx"
 excel_data = pd.read_excel(excel_file)
 
@@ -90,4 +91,27 @@ accuracy_KNN = accuracy_score(y_test, predictions_KNN)
 print("KNN Accuracy Score:", accuracy_KNN)
 #f1_KNN = f1_score(y_test, predictions_KNN)
 #print("F1:", f1_KNN), predictions_KNN)
-#print("F1:", f1_KNN)#%%
+#print("F1:", f1_KNN)
+
+#%% SVM (Support Vector Machine)
+# Create an SVM classifier
+model_SVM = SVC(kernel='linear', C=1.0, random_state=42)
+
+# Fit the SVM model to the scaled training data
+model_SVM.fit(x_train, y_train)
+
+# Make predictions on the test data
+predictions_SVM = model_SVM.predict(x_test)
+
+# Evaluate the SVM model (e.g., accuracy score)
+accuracy_SVM = accuracy_score(y_test, predictions_SVM)
+print("SVM Accuracy Score:", accuracy_SVM)
+
+model_ConfusionMatrix = confusion_matrix(y_test, predictions_SVM)
+classLabels = ["Harry Potter", "Sapiens", "Çiçek Senfonisi", "Alamut Kalesi", "Ben Robot", "Diğer"] 
+sns.heatmap(model_ConfusionMatrix, annot=True, fmt='d', cmap='Blues', xticklabels=classLabels, yticklabels=classLabels)
+plt.title("Confusion Matrix")
+plt.xlabel("Prediction")
+plt.ylabel("Real")
+plt.show()
+#%%
